@@ -1,0 +1,11 @@
+{
+  "name": "create-your-own-webserver",
+  "version": "1.0.0",
+  "description": "Create your own web server for API access",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kofo",
+  "license": "ISC"
+}
